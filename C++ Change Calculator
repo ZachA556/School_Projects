@@ -1,0 +1,75 @@
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int main() {
+
+    
+
+    double changeAmount;
+    int quarters;
+    int dimes;
+    int nickels;
+    int pennies;
+    cout <<" Change Calculator " <<endl;
+    cout <<endl;
+    cout <<"Enter number of cents (0 - 99):  ";
+    cin >>changeAmount;
+    cout <<"The change amount is..." <<changeAmount <<" ." <<endl;
+    cout <<endl;
+
+    if (changeAmount < 0)
+    {
+        cout << "Invalid amount." <<endl;
+    }
+    else
+    {
+
+        changeAmount = round(changeAmount * .999);
+        changeAmount = int(changeAmount);
+
+        quarters = changeAmount / 25;
+        changeAmount -= quarters * 25;
+
+        dimes = changeAmount / 10;
+        changeAmount -= dimes * 10;
+
+        nickels = changeAmount / 5;
+        changeAmount -= nickels * 5;
+
+        pennies = changeAmount / 1 ;
+        changeAmount -= pennies * 1;
+     
+        
+        
+        
+        
+        cout <<"    quarters   : " <<quarters <<endl;
+        cout <<"    dimes      : " <<dimes <<endl;
+        cout <<"    nickels    : " <<nickels <<endl;
+        cout <<"    pennyies   : " <<pennies <<endl;
+
+
+      
+        char again;
+        cout << "Continue? (y/n):";
+        cin >> again;
+            if(again== 'y'){
+                
+               
+
+               
+                
+                main();
+            }else{
+            cout << "Bye." << endl;
+            
+        
+    }
+    
+    
+    return 0;
+
+}
+}
