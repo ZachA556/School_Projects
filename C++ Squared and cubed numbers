@@ -1,0 +1,32 @@
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int main()
+{
+    
+    int x, y;
+    
+    cout << "Enter start number: ";
+    
+    cin >> x;
+    
+    cout << "Enter the end number: ";
+    
+    cin >> y;
+    
+    if(x<y){
+    
+    cout << "Number\tSquare\tCube\n";
+    cout <<"=========================\n";
+
+    for(x=x; x<=y; x++)
+        printf("%d\t\t%d\t\t%d\n", x, x*x, x*x*x);
+    
+    
+    }
+    else {
+        printf("Input error \n") ;
+    }
+}
