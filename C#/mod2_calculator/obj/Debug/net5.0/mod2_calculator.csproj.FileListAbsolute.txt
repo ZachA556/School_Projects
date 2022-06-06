@@ -1,0 +1,15 @@
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/bin/Debug/net5.0/mod2_calculator.deps.json
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/bin/Debug/net5.0/mod2_calculator.runtimeconfig.json
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/bin/Debug/net5.0/mod2_calculator.runtimeconfig.dev.json
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/bin/Debug/net5.0/mod2_calculator.dll
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/bin/Debug/net5.0/ref/mod2_calculator.dll
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/bin/Debug/net5.0/mod2_calculator.pdb
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/obj/Debug/net5.0/mod2_calculator.csproj.AssemblyReference.cache
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/obj/Debug/net5.0/mod2_calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/obj/Debug/net5.0/mod2_calculator.AssemblyInfoInputs.cache
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/obj/Debug/net5.0/mod2_calculator.AssemblyInfo.cs
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/obj/Debug/net5.0/mod2_calculator.csproj.CoreCompileInputs.cache
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/obj/Debug/net5.0/mod2_calculator.dll
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/obj/Debug/net5.0/ref/mod2_calculator.dll
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/obj/Debug/net5.0/mod2_calculator.pdb
+/Users/zacharyatkins/Projects/mod2_calculator/mod2_calculator/obj/Debug/net5.0/mod2_calculator.genruntimeconfig.cache
