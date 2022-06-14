@@ -1,0 +1,15 @@
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/bin/Debug/net5.0/arrayClassProject.deps.json
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/bin/Debug/net5.0/arrayClassProject.runtimeconfig.json
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/bin/Debug/net5.0/arrayClassProject.runtimeconfig.dev.json
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/bin/Debug/net5.0/arrayClassProject.dll
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/bin/Debug/net5.0/ref/arrayClassProject.dll
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/bin/Debug/net5.0/arrayClassProject.pdb
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/obj/Debug/net5.0/arrayClassProject.csproj.AssemblyReference.cache
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/obj/Debug/net5.0/arrayClassProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/obj/Debug/net5.0/arrayClassProject.AssemblyInfoInputs.cache
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/obj/Debug/net5.0/arrayClassProject.AssemblyInfo.cs
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/obj/Debug/net5.0/arrayClassProject.csproj.CoreCompileInputs.cache
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/obj/Debug/net5.0/arrayClassProject.dll
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/obj/Debug/net5.0/ref/arrayClassProject.dll
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/obj/Debug/net5.0/arrayClassProject.pdb
+/Users/zacharyatkins/Projects/arrayClassProject/arrayClassProject/obj/Debug/net5.0/arrayClassProject.genruntimeconfig.cache
